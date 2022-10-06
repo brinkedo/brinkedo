@@ -3,8 +3,10 @@
 - 🔭 Hoje ainda não trabalho na area... 😔
 - 🌱 Estudando HTML, CSS e JavaScript primeiramente..
 - 🤔 Toda ajuda é bem vinda, ainda estou no começo da "corrida" 😁
-- 🏁 E-mail para contato --> gabrielsflima@hotmail.com
-- ⚡ Fun fact: Faço engenharia desde 2017 e só agora criei vergonha na cara para estudar programação (tive que trancar o curso pra isso 🤠) 
+- 🏁 E-mail para contato -->  <a href="mailto:gabrielsflima@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="20" target="_blank"></a>
+- ⚡ Fun fact: Faço engenharia desde 2017 e só agora criei vergonha na cara para estudar programação(tive que trancar o curso pra isso🤠) 
+
+##
 
 <div align="center">
   <a href="https://github.com/brinkedo">
@@ -19,6 +21,8 @@
   <img align="center" alt="Brk-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brk-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brk-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Brk-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Brk-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="right" alt="Brk-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/78225507/194202222-fe682b26-3b95-4aec-b729-574d1575d6e9.gif?width=676&height=676">
 </div>
 
